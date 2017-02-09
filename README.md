@@ -1,5 +1,11 @@
 # Money.io
-
+<p align="center">
+  <img src="./examples/login.png">
+  
+  <img src="./examples/transactions.png">
+  
+  <img src="./examples/dues.png">
+</p>
 > Money.io is a financing app that allows users to keep track of their spendings as well as debts and loans.
 
 ## Team
